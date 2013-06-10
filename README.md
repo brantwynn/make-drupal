@@ -1,7 +1,7 @@
 make-drupal
 ===========
 
-Some helper makefiles for deploying Drupal versions.
+Stub makefiles for deploying Drupal versions.
 
 ----
 Example:
